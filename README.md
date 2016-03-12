@@ -1,6 +1,6 @@
 # redux-send
 
-More docs coming soon.
+__Read the introduction here:__ [Functions as Redux actions](https://medium.com/@dtinth/functions-as-redux-actions-8d49302d1d3b)
 
 __Demo App:__ https://dtinth.github.io/redux-send/
 
